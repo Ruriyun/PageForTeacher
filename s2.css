@@ -1,61 +1,63 @@
 body {
-    background-color: rgb(255, 224, 224);
+    background-color: rgb(255, 242, 242);
 }
 
 .main {
-    background-color: rgb(255, 233, 239);
-    width: 400px;
-    height: 450px;
+    background-color: rgb(255, 255, 255);
+    width: 650px;
+    height: 700px;
 
-    margin-top: 45px;
+    margin-top: 100px;
     border-radius: 25px;
-    box-shadow: 0 10px 50px rgb(79, 0, 206);
-}
-
-.img1 {
-    position: absolute;
-    left: 320px;
+    box-shadow: 0 10px 100px rgb(255, 0, 0);
 }
 
 h1 {
     color: rgb(0, 0, 0);
     position: absolute;
-    top: 50px;
-    font-size: 1.5em;
-    left: 400px;
+    top: 120px;
+    font-size: 2.5em;
+    left: 700px;
 }
 
 .p1 {
     color: rgb(0, 0, 0);
     position: absolute;
-    top: 80px;
-    font-size: 1.5em;
-    left: 420px;
+    top: 180px;
+    font-size: 2.2em;
+    left: 770px;
 }
 
 .p2 {
     color: rgb(0, 0, 0);
     position: absolute;
-    top: 450px;
-    font-size: 1em;
-    right: 550px;
+    top: 730px;
+    font-size: 1.5em;
+    left: 650px;
+}
+
+.img1 {
+    position: absolute;
+    left: 580px;
+    top: 70px;
 }
 
 .img2 {
     position: absolute;
-    left: 660px;
+    left: 1150px;
+    top: 70px;
 }
 
 .img3 {
     position: absolute;
-    top: 400px;
-    left: 630px;
+    top: 650px;
+    left: 1130px;
 }
 
 .img4 {
     position: absolute;
-    top: 400px;
-    left: 320px;
+    top: 650px;
+    left: 580px;
 }
 
 
