@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(255, 224, 224);
+}
+
+.main {
+    background-color: rgb(255, 233, 239);
+    width: 400px;
+    height: 450px;
+
+    margin-top: 45px;
+    border-radius: 25px;
+    box-shadow: 0 10px 50px rgb(79, 0, 206);
+}
+
+.img1 {
+    position: absolute;
+    left: 320px;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 50px;
+    font-size: 1.5em;
+    left: 400px;
+}
+
+.p1 {
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 80px;
+    font-size: 1.5em;
+    left: 420px;
+}
+
+.p2 {
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 450px;
+    font-size: 1em;
+    right: 550px;
+}
+
+.img2 {
+    position: absolute;
+    left: 660px;
+}
+
+.img3 {
+    position: absolute;
+    top: 400px;
+    left: 630px;
+}
+
+.img4 {
+    position: absolute;
+    top: 400px;
+    left: 320px;
+}
+
+
+
